@@ -13,7 +13,7 @@ Bu proje, React Native kullanılarak geliştirilmiş bir WebView uygulamasıdır
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/yourusername/CustomizableInjection.git
+git clone https://github.com/DeveloperMucahit/CustomizableInjection
 ```
 
 2. Bağımlılıkları yükleyin:
@@ -44,7 +44,3 @@ npm start
 - React Native
 - React Native WebView
 - TypeScript
-
-## Lisans
-
-MIT
